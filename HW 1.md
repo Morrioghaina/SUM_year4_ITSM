@@ -19,3 +19,5 @@
 |Caddy     | 53k   | 825      | 3.8k  |
 
 ## Сравнение ститистики по веб-серверам
+
+![Иллюстрация к проекту](https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js)
