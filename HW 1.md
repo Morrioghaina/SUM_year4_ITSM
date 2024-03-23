@@ -20,6 +20,26 @@
 
 ## Сравнение ститистики по веб-серверам
 
+1. Популярность разных веб-серверов
+   
+![Популярность разных веб-серверов](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/Popularity.png)
+
+
+2. Положение на рынке
+
 ![Положение веб-серверов на рынке](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/usage.png)
-![Поиск за год в мире](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/Мирграфик.png)
-![Поиск за год в мире](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/Миркарта.png)
+
+3. Поиск за год в мире
+
+![Поиск за год в мире](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/WorldGraph.png)
+
+
+4. Посик за год на карте (мир)
+   
+![География поиска (мир)](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/WorldMap.png)
+
+5. Поиск за год в России
+![Поиск за год в Росии](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/RussiaGraph.png)
+
+6. Поиск за год на карте (Россия)
+![География поиска (Россия)](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/RussiaMap.png)
