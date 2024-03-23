@@ -20,5 +20,6 @@
 
 ## Сравнение ститистики по веб-серверам
 
-![Россия за год](<img width="1114" alt="image" src="https://github.com/Morrioghaina/SUM_year4_ITSM/assets/86503429/a200f724-e843-4874-be38-8496ec6afde1">
-)
+![Положение веб-серверов на рынке](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/usage.png)
+![Поиск за год в мире](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/Мирграфик.png)
+![Поиск за год в мире](https://github.com/Morrioghaina/SUM_year4_ITSM/raw/main/Миркарта.png)
