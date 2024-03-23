@@ -20,4 +20,5 @@
 
 ## Сравнение ститистики по веб-серверам
 
-![Иллюстрация к проекту](https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js)
+![Россия за год](<img width="1114" alt="image" src="https://github.com/Morrioghaina/SUM_year4_ITSM/assets/86503429/a200f724-e843-4874-be38-8496ec6afde1">
+)
